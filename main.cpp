@@ -81,6 +81,7 @@ int main()
         uartTask();
         delay(TIME_INCREMENT_MS);
     }
+    //cometaro nusaidòasdhvsahvasdagsgsaudi
 }
 
 //=====[Implementations of public functions]===================================
