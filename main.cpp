@@ -82,6 +82,7 @@ int main()
         delay(TIME_INCREMENT_MS);
     }
     //cometaro nusaidòasdhvsahvasdagsgsaudi
+    //un coso yo,-,.njkdsasdfghjkl
 }
 
 //=====[Implementations of public functions]===================================
